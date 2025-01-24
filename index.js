@@ -1,13 +1,13 @@
-import jsonfile from 'jsonfile';
-import moment from 'moment';
-import { random } from 'random';
-import simpleGit from 'simple-git';
+const jsonfile = require('jsonfile');
+const moment = require('moment');
+const { random } = require('random');
+const simpleGit = require('simpleGit');
 
 
 const path = './data.json';
 
 const isVakiDate = (date) => {
-    const startDate = moment('2021-11-01');
+    const startDate = moment('2024-11-01');
     const endDate = moment('2025-1-24');
     return date.isBetween(startDate, endDate, null, '[]');
 }
@@ -27,7 +27,7 @@ const makeCommit = async (n) => {
         const randomWeeks = random.int(0, 54 * 4);
         const randomDay = random.int(1, 7);
 
-        const randomDate = moment("2019-01-01")
+        const randomDate = moment("2024-01-01")
             .add(randomWeeks, 'weeks')
             .add(randomDay, 'days');
     }
