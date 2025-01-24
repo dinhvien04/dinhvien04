@@ -1,7 +1,7 @@
 const jsonfile = require('jsonfile');
 const moment = require('moment');
 const { random } = require('random');
-const simpleGit = require('simpleGit');
+const simpleGit = require('simple-git');
 
 
 const path = './data.json';
@@ -38,7 +38,6 @@ const makeCommit = async (n) => {
     else {
         console.log('Skip commit: ${randomDate.toISOString()}  skiped ');
     }
-
     console.log('Pushing all comits... ');
     await git.push();
 
