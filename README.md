@@ -10,10 +10,16 @@ Trong lúc tìm kiếm các thư viện npm thú vị, mình tình cờ phát hi
 
 ## Hướng dẫn triển khai
 
-### Bước 1: Khởi tạo dự án Node.js và cài thư viện cần thiết
-Khởi tạo một dự án Node.js và cài đặt các thư viện cần thiết:
+### Thực hiện tất cả trong một lần:
 ```bash
+# Khởi tạo dự án Node.js và cài đặt thư viện
 npm init -y
 npm install jsonfile moment random simple-git
-```
+
+# Tạo file data.json và index.js
+touch data.json index.js
+
+# Khởi tạo Git repo, chạy file index.js
+git init
+node index.js
 
