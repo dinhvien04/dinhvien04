@@ -1,5 +1,5 @@
 
-# Xin chào, tôi là Dinh Viên 👋
+# Xin chào, tôi là Đình Viễn 👋
 
 Tôi là một nhà phát triển phần mềm đam mê công nghệ và luôn tìm kiếm những thử thách mới. Chào mừng bạn đến với hồ sơ GitHub của tôi!
 
