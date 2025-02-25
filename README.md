@@ -13,7 +13,7 @@ Tôi là một nhà phát triển phần mềm đam mê công nghệ và luôn t
 
 ## Kỹ năng
 
-- **Ngôn ngữ:** Python, JavaScript, Java, C++
+- **Ngôn ngữ:** Python, JavaScript, Java, C++,PHP
 - **Frameworks:** React, Node.js, Express, Spring Boot
 - **Cơ sở dữ liệu:** MySQL, MongoDB
 - **Công cụ DevOps:** Docker
