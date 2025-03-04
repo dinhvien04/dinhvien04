@@ -9,12 +9,12 @@ Tôi là một nhà phát triển phần mềm đam mê công nghệ và luôn t
 - 🌱 Tôi đang học về các thuật toán nâng cao và học máy.
 - 👯 Tôi muốn cộng tác trong các dự án mã nguồn mở.
 - 📫 Liên hệ với tôi: nguyendinhvien2004@gmail.com
-- ⚡ Sự thật thú vị: Tôi thích chơi cờ vua và đi bộ đường dài trong thời gian rảnh.
+- ⚡ Sự thật thú vị: Tôi thích chơi cầu lông và đi bộ đường dài trong thời gian rảnh.
 
 ## Kỹ năng
 
 - **Ngôn ngữ:** Python, JavaScript, Java, C++,PHP
-- **Frameworks:** React, Node.js, Express, Spring Boot
+- **Frameworks:** React, Node.js, Express, laravel
 - **Cơ sở dữ liệu:** MySQL, MongoDB
 - **Công cụ DevOps:** Docker
 - **Nền tảng đám mây:** AWS
