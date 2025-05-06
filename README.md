@@ -15,7 +15,7 @@ Tôi là một nhà phát triển phần mềm đam mê công nghệ và luôn t
 
 - **Ngôn ngữ:** Python, JavaScript, Java, C++,PHP
 - **Frameworks:** React, Node.js, Express, laravel
-- **Cơ sở dữ liệu:** MySQL, MongoDB
+- **Cơ sở dữ liệu:** MySQL,SQL SERVER, MongoDB
 - **Công cụ DevOps:** Docker
 - **Nền tảng đám mây:** AWS
 
