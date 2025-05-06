@@ -28,7 +28,9 @@ Dưới đây là một số dự án tiêu biểu của tôi:
 
 2. **Dự án bán hàng điện tử OCAW**: [https://github.com/dinhvien04/OCAW](#)
    - Mô tả: Dự án này là một hệ thống quản lý bán hàng trực tuyến toàn diện, bao gồm các chức năng quản lý sản phẩm, khách hàng, đơn hàng, và thanh toán. Hệ thống được xây dựng trên nền tảng OCAW (Online Commerce and Administration Web).
-
+   
+3. **Chat App - Trợ lý AI thời gian thực** :[https://github.com/dinhvien04/chat-app](#)
+   - Mô tả: Chat App là một ứng dụng trò chuyện thời gian thực, nơi người dùng có thể tương tác trực tiếp với một trợ lý AI thông minh thông qua giao diện web hiện đại. Giao diện được thiết kế theo phong cách dark mode, tối giản, dễ nhìn, tạo trải nghiệm tự nhiên như đang trò chuyện với một người thật.
 ## Thống kê GitHub
 
 ![Thống kê GitHub của Dinh Viên](https://github-readme-stats.vercel.app/api?username=dinhvien04&show_icons=true&theme=radical)
