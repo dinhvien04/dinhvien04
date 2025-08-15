@@ -23,8 +23,8 @@ Tôi là một nhà phát triển phần mềm đam mê công nghệ và luôn t
 
 Dưới đây là một số dự án tiêu biểu của tôi:
 
-1. **Dự án thi bằng lái xe**: [https://github.com/dinhvien04/RealTimeChat](#)
-   - Mô tả: Dự án này cung cấp một ứng dụng web giúp người dùng luyện tập và thi bằng lái xe trực tuyến. Ứng dụng bao gồm các câu hỏi lý thuyết, bài kiểm tra thực hành, và các mẹo thi hữu ích.
+1. **Dự án Chat Thời Gian Thực**: [https://github.com/dinhvien04/RealTimeChat](#)
+   - Mô tả: RealTimeChat là ứng dụng chat thời gian thực cho 1–1 và nhóm, đồng bộ tức thì trên mọi thiết bị. Xây dựng với Node.js + Socket.IO (WebSocket), MongoDB/Redis; hỗ trợ đăng nhập, trạng thái online/typing, gửi file/ảnh, thông báo và lưu lịch sử..
 
 2. **Dự án bán hàng điện tử OCAW**: [https://github.com/dinhvien04/OCAW](#)
    - Mô tả: Dự án này là một hệ thống quản lý bán hàng trực tuyến toàn diện, bao gồm các chức năng quản lý sản phẩm, khách hàng, đơn hàng, và thanh toán. Hệ thống được xây dựng trên nền tảng OCAW (Online Commerce and Administration Web).
