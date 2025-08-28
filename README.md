@@ -13,21 +13,14 @@ Tôi là một nhà phát triển phần mềm đam mê công nghệ và luôn t
 
 ## Kỹ năng
 
-## Kỹ năng
 
-### Ngôn ngữ
 [![Languages](https://skillicons.dev/icons?i=python,js,java,cpp,php)](https://skillicons.dev)
 
-### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,laravel)](https://skillicons.dev)
 
-### Cơ sở dữ liệu
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,mssql)](https://skillicons.dev)
 
-### Công cụ DevOps
 [![DevOps](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
-### Nền tảng đám mây
 [![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
