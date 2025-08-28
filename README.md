@@ -13,15 +13,14 @@ Tôi là một nhà phát triển phần mềm đam mê công nghệ và luôn t
 
 ## Kỹ năng
 
-
-[![Languages](https://skillicons.dev/icons?i=python,js,java,cpp,php)](https://skillicons.dev)
-
-[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,laravel)](https://skillicons.dev)
-
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,mssql)](https://skillicons.dev)
-
-[![DevOps](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+<p align="center">
+  <marquee behavior="alternate" direction="left" scrollamount="6" style="width:100%;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,react,nodejs,express,laravel,mysql,mongodb,docker,aws,git&perline=50" />
+    </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server" style="margin-left:6px;" />
+  </marquee>
+</p>
 
 
 ## Các dự án
