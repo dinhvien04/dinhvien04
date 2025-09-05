@@ -16,7 +16,7 @@ Tôi là một nhà phát triển phần mềm đam mê công nghệ và luôn t
 <p align="center">
   <marquee behavior="alternate" direction="left" scrollamount="6" style="width:100%;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,js,ts,php,react,nodejs,nextjs,tailwind,express,laravel,mysql,mongodb,docker,aws,git,vscode&perline=50" />
+      <img src="https://skillicons.dev/icons?i=python,js,ts,php,react,nodejs,nextjs,tailwind,express,laravel,mysql,mongodb,docker,aws,git,vscode,solidity&perline=50" />
     </a>
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server" style="margin-left:6px;" /> -->
   </marquee>
