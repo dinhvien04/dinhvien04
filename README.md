@@ -44,7 +44,7 @@ Dưới đây là một số dự án tiêu biểu của tôi:
 
 - [Facebook](https://www.facebook.com/profile.php?id=100048151745011)
 - [TikTok](https://www.tiktok.com/@vien08052004)
-- [Trang web cá nhân]()
+- [Trang web cá nhân](https://portfolio.dinhvien.store/)
 
 Hãy kiểm tra các kho lưu trữ của tôi và đóng góp nếu bạn thấy điều gì thú vị. Hãy kết nối và hợp tác!
 
