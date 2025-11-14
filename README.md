@@ -1,5 +1,5 @@
 
-# Xin chào, tôi là Đình Viễn 👋
+# Xin chào, tôi là Đình Viễn 
 
 Tôi là một nhà phát triển phần mềm đam mê công nghệ và luôn tìm kiếm những thử thách mới. Chào mừng bạn đến với hồ sơ GitHub của tôi!
 
@@ -48,4 +48,4 @@ Dưới đây là một số dự án tiêu biểu của tôi:
 
 Hãy kiểm tra các kho lưu trữ của tôi và đóng góp nếu bạn thấy điều gì thú vị. Hãy kết nối và hợp tác!
 
-Cảm ơn bạn đã ghé thăm hồ sơ của tôi! 😊
+Cảm ơn bạn đã ghé thăm hồ sơ của tôi! 
