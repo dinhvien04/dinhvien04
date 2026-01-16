@@ -37,8 +37,8 @@ Dưới đây là một số dự án tiêu biểu của tôi:
    - Mô tả: Chat App là một ứng dụng trò chuyện thời gian thực, nơi người dùng có thể tương tác trực tiếp với một trợ lý AI thông minh thông qua giao diện web hiện đại. Giao diện được thiết kế theo phong cách dark mode, tối giản, dễ nhìn, tạo trải nghiệm tự nhiên như đang trò chuyện với một người thật.
 ## Thống kê GitHub
 
-![Thống kê GitHub của Dinh Viên](https://github-readme-stats.vercel.app/api?username=dinhvien04&show_icons=true&theme=radical)
-![Ngôn ngữ hàng đầu](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhvien04&layout=compact&theme=radical)
+![Thống kê GitHub của Dinh Viên](https://github-readme-stats-sigma-five.vercel.app/api?username=dinhvien04&show_icons=true&theme=radical)
+![Ngôn ngữ hàng đầu](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dinhvien04&layout=compact&theme=radical)
 
 ## Kết nối với tôi
 
