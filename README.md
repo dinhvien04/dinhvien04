@@ -30,11 +30,13 @@ Dưới đây là một số dự án tiêu biểu của tôi:
 1. **Dự án Chat Thời Gian Thực**: [https://github.com/dinhvien04/RealTimeChat](#)
    - Mô tả: RealTimeChat là ứng dụng chat thời gian thực cho 1–1 và nhóm, đồng bộ tức thì trên mọi thiết bị. Xây dựng với Node.js + Socket.IO (WebSocket), MongoDB/Redis; hỗ trợ đăng nhập, trạng thái online/typing, gửi file/ảnh, thông báo và lưu lịch sử..
 
-2. **Dự án bán hàng điện tử OCAW**: [https://github.com/dinhvien04/OCAW](#)
-   - Mô tả: Dự án này là một hệ thống quản lý bán hàng trực tuyến toàn diện, bao gồm các chức năng quản lý sản phẩm, khách hàng, đơn hàng, và thanh toán. Hệ thống được xây dựng trên nền tảng OCAW (Online Commerce and Administration Web).
+2. **Dự án Sống Vui Tuổi Vàng**: [https://github.com/dinhvien04/SongVuiTuoiVang](#)
+   - Mô tả: Nền tảng web toàn diện kết nối người cao tuổi với các hoạt động sức khỏe, giải trí và dịch vụ chăm sóc chuyên nghiệp tại Quy Nhơn. Hệ thống tích hợp đặt lịch, thanh toán, quản lý gói dịch vụ và Trợ lý AI (MegaLLM) tư vấn 24/7. Xây dựng với React 19, TypeScript, Node.js, MongoDB và tích hợp AI.
    
-3. **Chat App - Trợ lý AI thời gian thực** :[https://github.com/dinhvien04/chat-app](#)
-   - Mô tả: Chat App là một ứng dụng trò chuyện thời gian thực, nơi người dùng có thể tương tác trực tiếp với một trợ lý AI thông minh thông qua giao diện web hiện đại. Giao diện được thiết kế theo phong cách dark mode, tối giản, dễ nhìn, tạo trải nghiệm tự nhiên như đang trò chuyện với một người thật.
+3. **Orchard - Tìm kiếm & Nhận diện trái cây AI**:[https://github.com/dinhvien04/SearchTraiCay](#)
+   - Mô tả: Hệ thống tìm kiếm và nhận diện 358 loại trái cây Việt Nam thông qua đa phương thức: Từ khóa/Mô tả (Semantic Search), Hình ảnh (Image Recognition với EfficientNet) và Giọng nói. Ứng dụng tích hợp Chatbot AI tư vấn theo mô hình RAG và tính năng so sánh chi tiết. Xây dựng trên nền tảng Flask (Python), sử dụng Qdrant làm Vector Database để lưu trữ embedding từ SentenceTransformers
+4. **DocReader AI Studio - Chuyển đổi giọng nói**:[https://github.com/dinhvien04/DocReaderAI](#)
+   - Mô tả: Hệ thống All-in-one hỗ trợ chuyển đổi văn bản thành giọng nói (TTS), dịch thuật đa ngôn ngữ và tóm tắt văn bản thông minh. Tích hợp Azure Speech Service cho giọng đọc Neural tự nhiên (Việt/Anh) và MegaLLM để xử lý ngôn ngữ. Hỗ trợ upload file đa định dạng (PDF, DOCX), tự động lưu vị trí nghe (Resume playback), xác thực OTP và Admin Dashboard. Phát triển trên nền tảng PHP, MySQL.
 ## Thống kê GitHub
 
 ![Thống kê GitHub của Dinh Viên](https://github-readme-stats-sigma-five.vercel.app/api?username=dinhvien04&show_icons=true&theme=radical)
