@@ -31,7 +31,7 @@ Dưới đây là một số dự án tiêu biểu của tôi:
    - Mô tả: RealTimeChat là ứng dụng chat thời gian thực cho 1–1 và nhóm, đồng bộ tức thì trên mọi thiết bị. Xây dựng với Node.js + Socket.IO (WebSocket), MongoDB/Redis; hỗ trợ đăng nhập, trạng thái online/typing, gửi file/ảnh, thông báo và lưu lịch sử..
 
 2. **Dự án Sống Vui Tuổi Vàng**: [SongVuiTuoiVang](https://github.com/dinhvien04/SongVuiTuoiVang)
-   - Mô tả: Nền tảng web toàn diện kết nối người cao tuổi với các hoạt động sức khỏe, giải trí và dịch vụ chăm sóc chuyên nghiệp tại Quy Nhơn. Hệ thống tích hợp đặt lịch, thanh toán, quản lý gói dịch vụ và Trợ lý AI (MegaLLM) tư vấn 24/7. Xây dựng với React 19, TypeScript, Node.js, MongoDB và tích hợp AI.
+   - Mô tả: Nền tảng web toàn diện kết nối người cao tuổi với các hoạt động sức khỏe, giải trí và dịch vụ chăm sóc chuyên nghiệp tại Quy Nhơn. Hệ thống tích hợp đặt lịch, thanh toán, quản lý gói dịch vụ và Trợ lý AI tư vấn 24/7. Xây dựng với React 19, TypeScript, Node.js, MongoDB và tích hợp AI.
    
 3. **Tìm kiếm & Nhận diện trái cây AI**: [Orchard ](https://github.com/dinhvien04/SearchTraiCay)
    - Mô tả: Hệ thống tìm kiếm và nhận diện 358 loại trái cây Việt Nam thông qua đa phương thức: Từ khóa/Mô tả (Semantic Search), Hình ảnh (Image Recognition với EfficientNet) và Giọng nói. Ứng dụng tích hợp Chatbot AI tư vấn theo mô hình RAG và tính năng so sánh chi tiết. Xây dựng trên nền tảng Flask (Python), sử dụng Qdrant làm Vector Database để lưu trữ embedding từ SentenceTransformers
