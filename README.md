@@ -39,8 +39,9 @@ Dưới đây là một số dự án tiêu biểu của tôi:
    - Mô tả: Hệ thống All-in-one hỗ trợ chuyển đổi văn bản thành giọng nói (TTS), dịch thuật đa ngôn ngữ và tóm tắt văn bản thông minh. Tích hợp Azure Speech Service cho giọng đọc Neural tự nhiên (Việt/Anh) và MegaLLM để xử lý ngôn ngữ. Hỗ trợ upload file đa định dạng (PDF, DOCX), tự động lưu vị trí nghe (Resume playback), xác thực OTP và Admin Dashboard. Phát triển trên nền tảng PHP, MySQL.
 ## Thống kê GitHub
 
-![Thống kê GitHub của Dinh Viên](https://github-readme-stats-sigma-five.vercel.app/api?username=dinhvien04&show_icons=true&theme=radical)
-![Ngôn ngữ hàng đầu](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dinhvien04&layout=compact&theme=radical)
+![Thống kê GitHub của Dinh Viên](https://github-stats-extended.vercel.app/api?username=dinhvien04&show_icons=true&theme=radical)
+
+![Ngôn ngữ hàng đầu](https://github-stats-extended.vercel.app/api/top-langs/?username=dinhvien04&layout=compact&theme=radical)
 
 ## Kết nối với tôi
 
